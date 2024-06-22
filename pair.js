@@ -69,11 +69,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/2349066528353
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || TWITTER = https://t.me/deecee_x
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@HacktivistHive
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 David Cyril`
+©*2024-2099 David Cyril*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
@@ -96,4 +92,3 @@ router.get('/', async (req, res) => {
     return await SIGMA_MD_PAIR_CODE()
 });
 module.exports = router
- 
