@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_MD SESSION IS 
+┃QUEEN_ANITA_V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -71,11 +71,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Owner = https://wa.me/2349066528353
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || TWITTER = https://t.me/deecee_x
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@HacktivistHive
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 David Cyril
+©*2024-2099 David Cyril*
        `
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
